@@ -1,0 +1,2 @@
+# all-inclusive-deal
+Deals
